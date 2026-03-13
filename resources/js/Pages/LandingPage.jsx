@@ -25,9 +25,9 @@ import LocalParkingIcon from "@mui/icons-material/LocalParking";
 import RestaurantIcon from "@mui/icons-material/Restaurant";
 
 // ── Shared Components ──
-import Navbar from "@shared/Navbar.jsx";
-import Footer from "@shared/Footer.jsx";
-import Pagination from "@shared/Pagination.jsx";
+import Navbar from "@/Components/Shared/Navbar.jsx";
+import Footer from "@/Components/Shared/Footer.jsx";
+import Pagination from "@/Components/Shared/Pagination.jsx";
 
 // ── Theme ──
 import theme from "@/theme";
